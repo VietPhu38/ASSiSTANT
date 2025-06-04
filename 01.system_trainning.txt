@@ -223,4 +223,84 @@ STT	CÁC CHỈ TIÊU TĨNH		Giá trị (VNĐ)
 - Gói thầu: Thi công kết cấu phần thô công trình Khách sạn Phạm Doanh Phương
 - Địa điểm: Thửa đất 71,72,73, TBĐ SỐ 49, LÔ 29,30,31, đường Hoàng Kế Viêm, P.Mỹ An, Q.Ngũ Hành Sơn, Tp. Đà Nẵng.
 - Công trình xây dựng dân dụng cấp II (Theo Phụ lục II Thông tư 06/2021/TT-BXD)
+Đặc điểm khu đất xây dựng
+- Phía đông: giáp với đường An Thượng 6
+- Phía tây: giáp với khu đất trống
+- Phía nam: giáp với công trình lân cận
+- Phía bắc: giáp với đường Hoàng Kế Viêm
+. Địa chất
+- Lớp 1: Cát mịn, màu xám vàng.
+- Lớp 2: Cát mịn, rời đến chặt vừa.
+- Lớp 3: Đất sét, màu xám xanh.
+- Lớp 4: Sét pha.
+- Lớp 5: Đá phiến.
+2.1.1 Thông tin nhà thầu
+Tên công ty:	Công ty cổ phần VINACONEX 25 
+Vốn điều lệ :	240.000.000.000 đồng 
+Mã số thuế:	0102186402
+Trụ sở chính:	89A Phan Đăng Lưu, Hoà Cường Nam, Hải Châu, Tp. Đà Nẵng
+Điện thoại:	0236.3621.632
+Fax:		0236.3621.638
+Website:         Vinaconex25 – Vinaconex25 
+Email:		info@vinaconex25.com.vn
+Công tác thi công cọc khoan nhồi được tiến hành trên một diện tích xây dựng là 656m2. Số lượng cọc khoan nhồi là 43 cọc có đường kính là 0,8 m và 10 cọc có đường kính 0,6 m.
+Bao gồm các quá trình chính sau:
+ + Công tác chuẩn bị;
+ + Công tác định vị tim cọc;
+ + Công tác hạ ống vách, khoan và bơm dung dịch betonite;
+ + Xác nhận độ sâu hố khoan và xử lý cặn lắng đáy hố cọc (Khoan tạo lỗ);
+ + Công tác chuẩn bị hạ lồng thép ( vét đấy hố khoan);
+ + Hạ lồng thép;
+ + Lắp ống đổ bê tông;
+ + Thổi rửa đáy hố khoan;
+ + Đổ bê tông;
+  + Rút ống vách.
+Khi thi công công trình “khách sạn Phạm Doanh Phương”, lựa chọn phương pháp hạ cừ bằng máy ép thủy lực do những ưu điểm vượt trội của nó. Đây là phương pháp thi công hiện đại, không gây rung lắc, hạn chế tiếng ồn, phù hợp với các khu vực đô thị đông dân cư hoặc những nơi có công trình lân cận cần đảm bảo an toàn. Máy ép thủy lực hoạt động với lực ép lớn, đảm bảo cọc được hạ sâu và chính xác theo thiết kế, tăng độ ổn định và khả năng chịu tải của nền móng. Ngoài ra, phương pháp này giúp tiết kiệm nhân công, giảm thiểu tác động môi trường và rút ngắn thời gian thi công. Với những ưu điểm trên, hạ cừ bằng máy ép thủy lực là lựa chọn tối ưu để đảm bảo chất lượng và tiến độ của công trình.
+1.3.1.2. Kỹ thuật hạ cừ
+- Bước 1: Ép cọc cừ larsen đầu tiên xuống nền đất theo đúng thiết kế và chiều sâu quy định.
+- Bước 2: Tiếp tục ép đến cọc cừ vây thứ 2, đồng thời xác định mức chịu tải của cọc.
+- Bước 3: Nâng toàn bộ thân máy lên trên, dừng lại tại vị trí kẹp cọc thấp hơn đầu cọc.
+- Bước 4: Nâng từ từ máy ép cọc cừ vây lên.
+- Bước 5: Đẩy bàn kẹp cọc đầu búa về phía trước. Lưu ý: Xoay bàn kẹp từ trái sang phải.
+- Bước 6: Đưa cọc xuống nền đất từ từ theo phương thẳng đứng
+Tổ chức thi công đào đất
+Dựa vào tính chất cơ lý của đất nền tại vị trí xây dựng công trình để thi công công tác đất, có phương án sau:
+Phương án thi công: Đóng cừ lasen, đào thẳng đứng toàn bộ từ cote -0,05 đến cote -1,25 m.
+Thi công hệ văng chống Showring tại cote -1,25
+Đào đất đợt 2 đến coste -4.950. Tuy nhiên trong giai đoạn này sẽ kết hợp giữa đào cơ giới và đào thủ công. Đào thủ công cách vị trí đầu cọc 200 và tiếp tục đào hố móng thang máy thêm 300.
+Vì khoảng cách giữa công trình với các công trình xung quanh và gần đường, nên dùng phương pháp đào thẳng đứng. Công trình có hầm vì vậy nên thi công theo phương pháp đóng cừ để tối ưu chi phí cũng như đảm bảo an toàn với các công trình xung quanh.
+Nên ta chọn phương án thi công đất thẳng đứng, dùng ván cừ, hệ kingpost để gia cố thành vách đất.
+Giai đoạn 1: Dùng máy ép cừ để tiến hành ép cừ Larsen (cao 9m) từ cote tự nhiên (-0,05m) đến độ sâu (-9,05m). Sử dụng máy đào lớn để đào từ cote tự nhiện (-0,05m) đến độ sâu (-1,25m).
+Giai đoạn 2: Lắp đặt hệ văng chống (shoring) và sử dụng kết hợp máy ủi đất và máy đào cỡ nhỏ dể đào đất từ cao độ (-1,25m) đến (-4,95m). Kết hợp với việc định vị tim cọc đào đất tại những vị trí cách cọc 200mm để tránh phá hoại kết cấu cọc khoan nhồi.
+Giai đoạn 3: Đào thủ công phần đất còn lại ở xung quanh cọc, kết hợp chỉnh sửa hố móng, và đào hố móng thang máy tới cao độ (-5,25m).
+Trình tự thi công bê tông cốt thép cột
+Lắp cốt thép, lắp ván khuôn, đổ bê tông, tháo ván khuôn
+Trình tự thi công bê tông cốt thép dầm, sàn, cầu thang
+lắp ván khuôn, Lắp cốt thép, đổ bê tông, tháo ván khuôn
+Cơ sở xác định chi phí thi công xây dựng công trình
+1.1.1. Cơ sở khối lượng công trình
+Căn cứ khối lượng công trình thực tế đã được đo bóc lại và hệ thống văn bản Pháp luật liên quan. 
+- Nghị định số 10/2021/NĐ-CP ngày 09/02/2021 của Chính phủ về quản lý chi phí đầu tư xây dựng. 
+- Thông tư số 11/2021/TT-BXD ngày 31/8/2021 của Bộ xây dựng về việc hướng dẫn xác định và quản lý chi phí đầu tư xây dựng. 
+- Thông tư số 12/2021/TT-BXD ngày 31/8/2021 của Bộ xây dựng về việc ban hành định mức xây dựng. 
+- Thông tư số 13/2021/TT-BXD ngày 31/8/2021 của Bộ xây dựng về việc hướng dẫn phương pháp xác định các chỉ tiêu kinh tế kỹ thuật và đo bóc khối lượng công trình. 
+- Luật xây dựng ngày 18/06/2014 của nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+1.1.2. Cơ sở biện pháp kỹ thuật triển khai thi công
+- Tiến độ thi công: 366 ngày 
+- Các biện pháp kĩ thuật tổ chức thi công đã lập cụ thể để thực hiện các công tác sao cho hiệu quả và thuận tiện nhất. 
+- Tổng mặt bằng thi công thực tế công trình được sắp xếp và bố trí sao cho thuận tiện cho việc di chuyển, vận chuyển vật tư và đảm bảo an toàn trong quá trình thi công công trình. 
+- Nhu cầu nhân công lao động, máy móc thi công đã được tính toán và phân bổ sao cho hợp lý nhất cho từng công tác.
+Xác định khoản tiền được tạm ứng ban đầu
+Sau khi nhận được bảo đảm thực hiện hợp đồng và bảo lãnh tiền tạm ứng, Chủ đầu tư sẽ ứng trước cho Nhà thầu 30% giá trị hợp đồng, giá trị hợp đồng 20,055,088,825 VNĐ. Vậy tại thời điểm ban đầu công ty được bên chủ đầu tư tạm ứng 1 khoản tiền là:
+30% x Gdthd = 30% x 20,055,088,825 = 5,570,858,007 (đồng)
+ (Bằng chữ: Năm tỷ, năm trăm bảy mươi triệu, tám trăm năm mươi tám nghìn, không trăm linh bảy đồng.) 
+Chủ đầu tư sẽ thanh toán cho Nhà thầu trong vòng 07 ngày làm việc kể từ ngày hợp đồng có hiệu lực và sau khi Chủ đầu tư đã nhận đầy đủ hồ sơ đề nghị tạm ứng từ Nhà thầu. Tiền tạm ứng được thu hồi theo tỷ lệ tương ứng ngay khi lần thanh toán đầu tiên và được thu hồi hết khi thanh toán đạt ≥ 80% giá trị khối lượng thực hiện theo hợp đồng.
+Các khoản chi phí ban đầu
+ĐVT: VNĐ
+STT	Hạng mục chi phí	Chi phí
+1	Chi phí nhà tạm để ở và điều hành thi công tại hiện trường	126,021,544
+2	Chi phí an toàn lao động	63,688,756
+3	Chi phí kho bãi	56,350,000
+5	Chi phí không xác định khối lượng khác	65,914,707
+Tổng	311,975,007
 
