@@ -14,171 +14,172 @@ Dự án Khách sạn Phạm Doanh Phương:
 - Quy mô công trình: Công trình gồm 1 tầng hầm, 15 tầng nổi, 1 tầng kỹ thuật, 1 tầng mái, 1 ô che thang. Cọc khoan nhồi.
 - Tổng diện tích sàn: 9294.0 m2 (bao gồm diện tích tầng hầm & tầng kỹ thuật, không tính diện tích bể bơi & kỹ thuật bể bơi)
 OUR Schedule:
-KHÁCH SẠN PHẠM DOANH PHƯƠNG	16,708,479,568.71 VND	Thu 21/08/25	Fri 21/08/26
-ĐỢT 1 (21/08/2025-30/11/2025)	4,113,698,985.36 VND	Thu 21/08/25	Mon 17/11/25
-  TẦNG 1	1,332,626,070.40 VND	Thu 21/08/25	Wed 01/10/25
-  Lắp cốt thép cột tầng 1	384,661,332.25 VND	Thu 21/08/25	Sat 30/08/25
-  Lắp ván khuôn cột tầng 1	20,175,331.59 VND	Mon 25/08/25	Sun 31/08/25
-  Đổ bê tông cột tầng 1	96,069,174.91 VND	Mon 01/09/25	Mon 01/09/25
-  Tháo ván khuôn cột tầng 1	3,778,861.47 VND	Thu 04/09/25	Thu 04/09/25
-  Lắp ván khuôn dầm, sàn, cầu thang tầng 2	24,878,540.33 VND	Tue 02/09/25	Sun 07/09/25
-  Lắp cốt thép dầm, sàn, cầu thang tầng 2	558,960,970.38 VND	Wed 03/09/25	Fri 12/09/25
-  Đổ bê tông dầm, sàn, cầu thang tầng 2	237,882,224.39 VND	Sat 13/09/25	Sat 13/09/25
-  Tháo ván khuôn dầm, sàn, cầu thang tầng 2	6,219,635.08 VND	Mon 29/09/25	Wed 01/10/25
-  TẦNG 2	1,308,644,824.16 VND	Tue 16/09/25	Mon 27/10/25
-  Lắp cốt thép cột, vách tầng 2	345,549,906.77 VND	Tue 16/09/25	Thu 25/09/25
-  Lắp ván khuôn cột, vách tầng 2	28,085,078.32 VND	Sat 20/09/25	Fri 26/09/25
-  Đổ bê tông cột, vách tầng 2	76,063,368.81 VND	Sat 27/09/25	Sat 27/09/25
-  Tháo ván khuôn cột, vách tầng 2	6,437,436.62 VND	Tue 30/09/25	Wed 01/10/25
-  Lắp ván khuôn dầm, sàn, cầu thang tầng 3	28,517,246.70 VND	Sun 28/09/25	Fri 03/10/25
-  Lắp cốt thép dầm, sàn, cầu thang tầng 3	574,590,460.31 VND	Mon 29/09/25	Wed 08/10/25
-  Đổ bê tông dầm, sàn, cầu thang tầng 3	242,408,609.18 VND	Thu 09/10/25	Thu 09/10/25
-  Tháo ván khuôn dầm, sàn, cầu thang tầng 3	6,992,717.45 VND	Sat 25/10/25	Mon 27/10/25
-  TẦNG 3	1,182,057,802.54 VND	Sun 12/10/25	Mon 17/11/25
-  Lắp cốt thép cột, vách tầng 3	241,151,802.70 VND	Sun 12/10/25	Thu 16/10/25
-  Lắp ván khuôn cột, vách tầng 3	23,062,449.61 VND	Mon 13/10/25	Fri 17/10/25
-  Đổ bê tông cột, vách tầng 3	61,894,929.71 VND	Sat 18/10/25	Sat 18/10/25
-  Tháo ván khuôn cột, vách tầng 3	5,465,827.41 VND	Tue 21/10/25	Wed 22/10/25
-  Lắp ván khuôn dầm, sàn, cầu thang tầng 4	28,577,804.37 VND	Sun 19/10/25	Fri 24/10/25
-  Lắp cốt thép dầm, sàn, cầu thang tầng 4	575,554,759.43 VND	Mon 20/10/25	Wed 29/10/25
-  Đổ bê tông dầm, sàn, cầu thang tầng 4	239,346,239.86 VND	Thu 30/10/25	Thu 30/10/25
-  Tháo ván khuôn dầm, sàn, cầu thang tầng 4	7,003,989.45 VND	Sat 15/11/25	Mon 17/11/25
-  TẦNG 4	290,370,288.26 VND	Sun 02/11/25	Wed 12/11/25
-  Lắp cốt thép cột, vách tầng 4	200,116,084.58 VND	Sun 02/11/25	Thu 06/11/25
-  Lắp ván khuôn cột, vách tầng 4	23,089,582.01 VND	Mon 03/11/25	Fri 07/11/25
-  Đổ bê tông cột, vách tầng 4	61,694,118.60 VND	Sat 08/11/25	Sat 08/11/25
-  Tháo ván khuôn cột, vách tầng 4	5,470,503.07 VND	Tue 11/11/25	Wed 12/11/25
-ĐỢT 2 (1/12/2025-31/01/2026)	3,499,653,317.63 VND	Sun 09/11/25	Tue 20/01/26
-TẦNG 4	851,282,190.09 VND	Sun 09/11/25	Mon 08/12/25
-Lắp ván khuôn dầm, sàn, cầu thang tầng 5	28,945,051.51 VND	Sun 09/11/25	Fri 14/11/25
-Lắp cốt thép dầm, sàn, cầu thang tầng 5	575,554,759.43 VND	Mon 10/11/25	Wed 19/11/25
-Đổ bê tông dầm, sàn, cầu thang tầng 5	239,710,209.98 VND	Thu 20/11/25	Thu 20/11/25
-Tháo ván khuôn dầm, sàn, cầu thang tầng 5	7,072,169.17 VND	Sat 06/12/25	Mon 08/12/25
-TẦNG 5	1,022,341,236.18 VND	Sun 23/11/25	Sun 28/12/25
-Lắp cốt thép cột, vách tầng 5	189,999,112.97 VND	Sun 23/11/25	Thu 27/11/25
-Lắp ván khuôn cột, vách tầng 5	23,059,434.90 VND	Mon 24/11/25	Fri 28/11/25
-Đổ bê tông cột, vách tầng 5	61,530,959.58 VND	Fri 28/11/25	Fri 28/11/25
-Tháo ván khuôn cột, vách tầng 5	5,465,307.89 VND	Mon 01/12/25	Tue 02/12/25
-Lắp ván khuôn dầm, sàn, cầu thang tầng 6	28,568,726.70 VND	Sat 29/11/25	Thu 04/12/25
-Lắp cốt thép dầm, sàn, cầu thang tầng 6	466,924,093.52 VND	Sun 30/11/25	Tue 09/12/25
-Đổ bê tông dầm, sàn, cầu thang tầng 6	239,790,400.25 VND	Wed 10/12/25	Wed 10/12/25
-Tháo ván khuôn dầm, sàn, cầu thang tầng 6	7,003,200.37 VND	Fri 26/12/25	Sun 28/12/25
-TẦNG 6	1,089,768,937.12 VND	Sat 13/12/25	Tue 20/01/26
-Lắp cốt thép cột, vách tầng 6	288,113,450.12 VND	Sat 13/12/25	Fri 19/12/25
-Lắp ván khuôn cột, vách tầng 6	32,029,370.22 VND	Sun 14/12/25	Sat 20/12/25
-Đổ bê tông cột, vách tầng 6	69,638,707.85 VND	Sun 21/12/25	Sun 21/12/25
-Tháo ván khuôn cột, vách tầng 6	8,136,658.80 VND	Wed 24/12/25	Fri 26/12/25
-Lắp ván khuôn dầm, sàn, cầu thang tầng 7	28,015,342.06 VND	Mon 22/12/25	Sat 27/12/25
-Lắp cốt thép dầm, sàn, cầu thang tầng 7	473,866,008.00 VND	Tue 23/12/25	Thu 01/01/26
-Đổ bê tông dầm, sàn, cầu thang tầng 7	183,070,767.83 VND	Fri 02/01/26	Fri 02/01/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng 7	6,898,632.24 VND	Sun 18/01/26	Tue 20/01/26
-TẦNG 7	536,260,954.24 VND	Mon 05/01/26	Mon 19/01/26
-Lắp cốt thép cột, vách tầng 7	451,508,852.20 VND	Mon 05/01/26	Tue 13/01/26
-Lắp ván khuôn cột, vách tầng 7	22,956,934.74 VND	Sat 10/01/26	Wed 14/01/26
-Đổ bê tông cột, vách tầng 7	56,347,523.00 VND	Thu 15/01/26	Thu 15/01/26
-Tháo ván khuôn cột, vách tầng 7	5,447,644.30 VND	Sun 18/01/26	Mon 19/01/26
-ĐỢT 3 (1/2/2026-31/03/2026)	3,060,284,581.93 VND	Fri 16/01/26	Sat 28/03/26
-TẦNG 8	682,988,215.37 VND	Fri 16/01/26	Sat 14/02/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng 8	27,876,792.86 VND	Fri 16/01/26	Wed 21/01/26
-Lắp cốt thép dầm, sàn, cầu thang tầng 8	473,866,008.00 VND	Sat 17/01/26	Mon 26/01/26
-Đổ bê tông dầm, sàn, cầu thang tầng 8	174,373,136.95 VND	Tue 27/01/26	Tue 27/01/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng 8	6,872,277.56 VND	Thu 12/02/26	Sat 14/02/26
-TẦNG 8	1,092,713,504.64 VND	Fri 30/01/26	Sat 07/03/26
-Lắp cốt thép cột, vách tầng 8	218,928,357.96 VND	Fri 30/01/26	Mon 02/02/26
-Lắp ván khuôn cột, vách tầng 8	22,956,934.74 VND	Sat 31/01/26	Wed 04/02/26
-Đổ bê tông cột, vách tầng 8	56,309,870.92 VND	Thu 05/02/26	Thu 05/02/26
-Tháo ván khuôn cột, vách tầng 8	5,447,644.30 VND	Sun 08/02/26	Mon 09/02/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng 9	130,076,403.89 VND	Fri 06/02/26	Wed 11/02/26
-Lắp cốt thép dầm, sàn, cầu thang tầng 9	473,866,008.00 VND	Sat 07/02/26	Mon 16/02/26
-Đổ bê tông dầm, sàn, cầu thang tầng 9	173,005,111.31 VND	Tue 17/02/26	Tue 17/02/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng 9	12,123,173.52 VND	Thu 05/03/26	Sat 07/03/26
-TẦNG 9	983,107,821.76 VND	Fri 20/02/26	Sat 28/03/26
-Lắp cốt thép cột, vách tầng 9	216,722,938.12 VND	Fri 20/02/26	Tue 24/02/26
-Lắp ván khuôn cột, vách tầng 9	22,956,934.74 VND	Sat 21/02/26	Wed 25/02/26
-Đổ bê tông cột, vách tầng 9	56,347,523.00 VND	Thu 26/02/26	Thu 26/02/26
-Tháo ván khuôn cột, vách tầng 9	5,447,644.30 VND	Sun 01/03/26	Mon 02/03/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng 10	27,917,942.85 VND	Fri 27/02/26	Wed 04/03/26
-Lắp cốt thép dầm, sàn, cầu thang tầng 10	473,866,008.00 VND	Sat 28/02/26	Mon 09/03/26
-Đổ bê tông dầm, sàn, cầu thang tầng 10	172,967,459.23 VND	Tue 10/03/26	Tue 10/03/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng 10	6,881,371.52 VND	Thu 26/03/26	Sat 28/03/26
-TẦNG 10	301,475,040.16 VND	Fri 13/03/26	Mon 23/03/26
-Lắp cốt thép cột, vách tầng 10	216,722,938.12 VND	Fri 13/03/26	Tue 17/03/26
-Lắp ván khuôn cột, vách tầng 10	22,956,934.74 VND	Sat 14/03/26	Wed 18/03/26
-Đổ bê tông cột, vách tầng 10	56,347,523.00 VND	Thu 19/03/26	Thu 19/03/26
-Tháo ván khuôn cột, vách tầng 10	5,447,644.30 VND	Sun 22/03/26	Mon 23/03/26
-ĐỢT 4 (1/4/2026-31/05/2026)	2,913,838,807.90 VND	Fri 20/03/26	Fri 29/05/26
-TẦNG 11	675,080,529.11 VND	Fri 20/03/26	Fri 17/04/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng 11	23,549,774.52 VND	Fri 20/03/26	Tue 24/03/26
-Lắp cốt thép dầm, sàn, cầu thang tầng 11	473,866,008.00 VND	Sat 21/03/26	Mon 30/03/26
-Đổ bê tông dầm, sàn, cầu thang tầng 11	172,967,459.23 VND	Tue 31/03/26	Tue 31/03/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng 11	4,697,287.36 VND	Thu 16/04/26	Fri 17/04/26
-TẦNG 11	976,555,569.27 VND	Fri 03/04/26	Fri 08/05/26
-Lắp cốt thép cột, vách tầng 11	216,722,938.12 VND	Fri 03/04/26	Tue 07/04/26
-Lắp ván khuôn cột, vách tầng 11	22,956,934.74 VND	Sat 04/04/26	Wed 08/04/26
-Đổ bê tông cột, vách tầng 11	56,347,523.00 VND	Thu 09/04/26	Thu 09/04/26
-Tháo ván khuôn cột, vách tầng 11	5,447,644.30 VND	Sun 12/04/26	Mon 13/04/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng 12	23,549,774.52 VND	Fri 10/04/26	Tue 14/04/26
-Lắp cốt thép dầm, sàn, cầu thang tầng 12	473,866,008.00 VND	Sat 11/04/26	Mon 20/04/26
-Đổ bê tông dầm, sàn, cầu thang tầng 12	172,967,459.23 VND	Tue 21/04/26	Tue 21/04/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng 12	4,697,287.36 VND	Thu 07/05/26	Fri 08/05/26
-TẦNG 12	966,328,082.22 VND	Fri 24/04/26	Fri 29/05/26
-Lắp cốt thép cột, vách tầng 12	206,646,059.40 VND	Fri 24/04/26	Tue 28/04/26
-Lắp ván khuôn cột, vách tầng 12	22,956,934.74 VND	Sat 25/04/26	Wed 29/04/26
-Đổ bê tông cột, vách tầng 12	56,347,523.00 VND	Thu 30/04/26	Thu 30/04/26
-Tháo ván khuôn cột, vách tầng 12	5,447,644.30 VND	Sun 03/05/26	Mon 04/05/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng 13	23,549,774.52 VND	Fri 01/05/26	Tue 05/05/26
-Lắp cốt thép dầm, sàn, cầu thang tầng 13	473,866,008.00 VND	Sat 02/05/26	Mon 11/05/26
-Đổ bê tông dầm, sàn, cầu thang tầng 13	172,816,850.90 VND	Tue 12/05/26	Tue 12/05/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng 13	4,697,287.36 VND	Thu 28/05/26	Fri 29/05/26
-TẦNG 13	295,874,627.30 VND	Fri 15/05/26	Mon 25/05/26
-Lắp cốt thép cột, vách tầng 13	206,646,059.40 VND	Fri 15/05/26	Tue 19/05/26
-Lắp ván khuôn cột, vách tầng 13	27,433,400.60 VND	Sat 16/05/26	Wed 20/05/26
-Đổ bê tông cột, vách tầng 13	56,347,523.00 VND	Thu 21/05/26	Thu 21/05/26
-Tháo ván khuôn cột, vách tầng 13	5,447,644.30 VND	Sun 24/05/26	Mon 25/05/26
-ĐỢT 5 (1/6/2026-31/07/2026)	2,568,156,429.40 VND	Fri 22/05/26	Fri 31/07/26
-TẦNG 14	674,929,920.78 VND	Fri 22/05/26	Fri 19/06/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng 14	23,549,774.52 VND	Fri 22/05/26	Tue 26/05/26
-Lắp cốt thép dầm, sàn, cầu thang tầng 14	473,866,008.00 VND	Sat 23/05/26	Mon 01/06/26
-Đổ bê tông dầm, sàn, cầu thang tầng 14	172,816,850.90 VND	Tue 02/06/26	Tue 02/06/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng 14	4,697,287.36 VND	Thu 18/06/26	Fri 19/06/26
-TẦNG 14	980,992,596.94 VND	Fri 05/06/26	Fri 10/07/26
-Lắp cốt thép cột, vách tầng 14	206,646,059.40 VND	Fri 05/06/26	Tue 09/06/26
-Lắp ván khuôn cột, vách tầng 14	27,349,953.72 VND	Sat 06/06/26	Wed 10/06/26
-Đổ bê tông cột, vách tầng 14	56,021,204.96 VND	Thu 11/06/26	Thu 11/06/26
-Tháo ván khuôn cột, vách tầng 14	5,445,046.72 VND	Sun 14/06/26	Mon 15/06/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng 15	23,655,043.58 VND	Fri 12/06/26	Tue 16/06/26
-Lắp cốt thép dầm, sàn, cầu thang tầng 15	473,768,446.74 VND	Sat 13/06/26	Mon 22/06/26
-Đổ bê tông dầm, sàn, cầu thang tầng 15	183,386,317.12 VND	Tue 23/06/26	Tue 23/06/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng 15	4,720,524.70 VND	Thu 09/07/26	Fri 10/07/26
-TẦNG 15	912,233,911.68 VND	Fri 26/06/26	Fri 31/07/26
-Lắp cốt thép cột, vách tầng 15	243,642,044.29 VND	Fri 26/06/26	Tue 30/06/26
-Lắp ván khuôn cột, vách tầng 15	32,210,252.86 VND	Sat 27/06/26	Wed 01/07/26
-Đổ bê tông cột, vách tầng 15	78,650,106.08 VND	Thu 02/07/26	Thu 02/07/26
-Tháo ván khuôn cột, vách tầng 15	5,522,974.31 VND	Sun 05/07/26	Mon 06/07/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng kỹ thuật	23,570,133.34 VND	Fri 03/07/26	Tue 07/07/26
-Lắp cốt thép dầm, sàn, cầu thang tầng kỹ thuật	328,880,805.72 VND	Sat 04/07/26	Mon 13/07/26
-Đổ bê tông dầm, sàn, cầu thang tầng kỹ thuật	195,042,777.17 VND	Tue 14/07/26	Tue 14/07/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng kỹ thuật	4,714,817.91 VND	Thu 30/07/26	Fri 31/07/26
-ĐỢT 6 (1/8/2026-30/09/2026)	552,847,446.49 VND	Fri 17/07/26	Fri 21/08/26
-TẦNG KỸ THUẬT	417,548,772.90 VND	Fri 17/07/26	Thu 13/08/26
-Lắp cốt thép cột, vách tầng kỹ thuật	202,408,491.75 VND	Fri 17/07/26	Tue 21/07/26
-Lắp ván khuôn cột, vách tầng kỹ thuật	13,766,925.54 VND	Mon 20/07/26	Wed 22/07/26
-Đổ bê tông cột, vách tầng kỹ thuật	28,560,286.67 VND	Thu 23/07/26	Thu 23/07/26
-Tháo ván khuôn cột, vách tầng kỹ thuật	2,297,559.38 VND	Sun 26/07/26	Sun 26/07/26
-Lắp ván khuôn dầm, sàn, cầu thang tầng mái	17,242,816.53 VND	Fri 24/07/26	Sat 25/07/26
-Lắp cốt thép dầm, sàn, cầu thang tầng mái	99,160,468.75 VND	Sat 25/07/26	Mon 27/07/26
-Đổ bê tông dầm, sàn, cầu thang tầng mái	49,846,263.55 VND	Tue 28/07/26	Tue 28/07/26
-Tháo ván khuôn dầm, sàn, cầu thang tầng mái	4,265,960.73 VND	Thu 13/08/26	Thu 13/08/26
-TẦNG MÁI	76,342,660.45 VND	Fri 31/07/26	Sat 08/08/26
-Lắp cốt thép cột, vách tầng mái	61,884,274.88 VND	Fri 31/07/26	Mon 03/08/26
-Lắp ván khuôn cột, vách tầng mái	4,940,080.55 VND	Tue 04/08/26	Tue 04/08/26
-Đổ bê tông cột, vách tầng mái	8,454,075.02 VND	Wed 05/08/26	Wed 05/08/26
-Tháo ván khuôn cột, vách tầng mái	1,064,230.00 VND	Sat 08/08/26	Sat 08/08/26
-Ô CHE THANG	58,956,013.14 VND	Thu 06/08/26	Fri 21/08/26
-Lắp ván khuôn dầm, sàn, cầu thang ô che thang	7,406,309.20 VND	Thu 06/08/26	Fri 07/08/26
-Lắp cốt thép dầm, sàn, cầu thang ô che thang	26,948,350.17 VND	Fri 07/08/26	Sun 09/08/26
-Đổ bê tông dầm, sàn, cầu thang ô che thang	22,774,416.78 VND	Mon 10/08/26	Mon 10/08/26
-Tháo ván khuôn dầm, sàn, cầu thang ô che thang	1,826,936.99 VND	Fri 21/08/26	Fri 21/08/26
+KHÁCH SẠN PHẠM DOANH PHƯƠNG	16,708,479,568.71 VND		Thu 21/08/25	Fri 21/08/26
+ĐỢT 1 (21/08/2025-30/11/2025)	4,113,698,985.36 VND		Thu 21/08/25	Mon 17/11/25
+TẦNG 1	1,332,626,070.40 VND		Thu 21/08/25	Wed 01/10/25
+Lắp cốt thép cột tầng 1	384,661,332.25 VND	Nhân công[10]	Thu 21/08/25	Sat 30/08/25
+Lắp ván khuôn cột tầng 1	20,175,331.59 VND	Nhân công[7]	Mon 25/08/25	Sun 31/08/25
+Đổ bê tông cột tầng 1	96,069,174.91 VND	Nhân công[10]	Mon 01/09/25	Mon 01/09/25
+Tháo ván khuôn cột tầng 1	3,778,861.47 VND	Nhân công[3]	Thu 04/09/25	Thu 04/09/25
+Lắp ván khuôn dầm, sàn, cầu thang tầng 2	24,878,540.33 VND	Nhân công[10]	Tue 02/09/25	Sun 07/09/25
+Lắp cốt thép dầm, sàn, cầu thang tầng 2	558,960,970.38 VND	Nhân công[15]	Wed 03/09/25	Fri 12/09/25
+Đổ bê tông dầm, sàn, cầu thang tầng 2	237,882,224.39 VND	Nhân công[10]	Sat 13/09/25	Sat 13/09/25
+Tháo ván khuôn dầm, sàn, cầu thang tầng 2	6,219,635.08 VND	Nhân công[5]	Mon 29/09/25	Wed 01/10/25
+TẦNG 2	1,308,644,824.16 VND		Tue 16/09/25	Mon 27/10/25
+Lắp cốt thép cột, vách tầng 2	345,549,906.77 VND	Nhân công[15]	Tue 16/09/25	Thu 25/09/25
+Lắp ván khuôn cột, vách tầng 2	28,085,078.32 VND	Nhân công[10]	Sat 20/09/25	Fri 26/09/25
+Đổ bê tông cột, vách tầng 2	76,063,368.81 VND	Nhân công[10]	Sat 27/09/25	Sat 27/09/25
+Tháo ván khuôn cột, vách tầng 2	6,437,436.62 VND	Nhân công[8]	Tue 30/09/25	Wed 01/10/25
+Lắp ván khuôn dầm, sàn, cầu thang tầng 3	28,517,246.70 VND	Nhân công[10],Vận thăng tải,Cần trục tháp	Sun 28/09/25	Fri 03/10/25
+Lắp cốt thép dầm, sàn, cầu thang tầng 3	574,590,460.31 VND	Nhân công[15],Vận thăng tải,Cần trục tháp	Mon 29/09/25	Wed 08/10/25
+Đổ bê tông dầm, sàn, cầu thang tầng 3	242,408,609.18 VND	Nhân công[10]	Thu 09/10/25	Thu 09/10/25
+Tháo ván khuôn dầm, sàn, cầu thang tầng 3	6,992,717.45 VND	Nhân công[5],Vận thăng tải,Cần trục tháp	Sat 25/10/25	Mon 27/10/25
+TẦNG 3	1,182,057,802.54 VND		Sun 12/10/25	Mon 17/11/25
+Lắp cốt thép cột, vách tầng 3	241,151,802.70 VND	Nhân công[15],Vận thăng tải,Cần trục tháp	Sun 12/10/25	Thu 16/10/25
+Lắp ván khuôn cột, vách tầng 3	23,062,449.61 VND	Nhân công[10],Vận thăng tải,Cần trục tháp	Mon 13/10/25	Fri 17/10/25
+Đổ bê tông cột, vách tầng 3	61,894,929.71 VND	Nhân công[10]	Sat 18/10/25	Sat 18/10/25
+Tháo ván khuôn cột, vách tầng 3	5,465,827.41 VND	Nhân công[6],Vận thăng tải,Cần trục tháp	Tue 21/10/25	Wed 22/10/25
+Lắp ván khuôn dầm, sàn, cầu thang tầng 4	28,577,804.37 VND	Nhân công[10],Vận thăng tải,Cần trục tháp	Sun 19/10/25	Fri 24/10/25
+Lắp cốt thép dầm, sàn, cầu thang tầng 4	575,554,759.43 VND	Nhân công[15],Vận thăng tải,Cần trục tháp	Mon 20/10/25	Wed 29/10/25
+Đổ bê tông dầm, sàn, cầu thang tầng 4	239,346,239.86 VND	Nhân công[10]	Thu 30/10/25	Thu 30/10/25
+Tháo ván khuôn dầm, sàn, cầu thang tầng 4	7,003,989.45 VND	Nhân công[5],Vận thăng tải,Cần trục tháp	Sat 15/11/25	Mon 17/11/25
+TẦNG 4	290,370,288.26 VND		Sun 02/11/25	Wed 12/11/25
+Lắp cốt thép cột, vách tầng 4	200,116,084.58 VND	Nhân công[15],Vận thăng tải,Cần trục tháp	Sun 02/11/25	Thu 06/11/25
+Lắp ván khuôn cột, vách tầng 4	23,089,582.01 VND	Nhân công[10],Vận thăng tải,Cần trục tháp	Mon 03/11/25	Fri 07/11/25
+Đổ bê tông cột, vách tầng 4	61,694,118.60 VND	Nhân công[10]	Sat 08/11/25	Sat 08/11/25
+Tháo ván khuôn cột, vách tầng 4	5,470,503.07 VND	Nhân công[6],Vận thăng tải,Cần trục tháp	Tue 11/11/25	Wed 12/11/25
+ĐỢT 2 (1/12/2025-31/01/2026)	3,499,653,317.63 VND		Sun 09/11/25	Tue 20/01/26
+TẦNG 4	851,282,190.09 VND		Sun 09/11/25	Mon 08/12/25
+Lắp ván khuôn dầm, sàn, cầu thang tầng 5	28,945,051.51 VND	Nhân công[10],Vận thăng tải,Cần trục tháp	Sun 09/11/25	Fri 14/11/25
+Lắp cốt thép dầm, sàn, cầu thang tầng 5	575,554,759.43 VND	Nhân công[15],Vận thăng tải,Cần trục tháp	Mon 10/11/25	Wed 19/11/25
+Đổ bê tông dầm, sàn, cầu thang tầng 5	239,710,209.98 VND	Nhân công[10]	Thu 20/11/25	Thu 20/11/25
+Tháo ván khuôn dầm, sàn, cầu thang tầng 5	7,072,169.17 VND	Nhân công[5],Vận thăng tải,Cần trục tháp	Sat 06/12/25	Mon 08/12/25
+TẦNG 5	1,022,341,236.18 VND		Sun 23/11/25	Sun 28/12/25
+Lắp cốt thép cột, vách tầng 5	189,999,112.97 VND	Nhân công[15],Vận thăng tải,Cần trục tháp	Sun 23/11/25	Thu 27/11/25
+Lắp ván khuôn cột, vách tầng 5	23,059,434.90 VND	Nhân công[10],Vận thăng tải,Cần trục tháp	Mon 24/11/25	Fri 28/11/25
+Đổ bê tông cột, vách tầng 5	61,530,959.58 VND	Nhân công[10]	Fri 28/11/25	Fri 28/11/25
+Tháo ván khuôn cột, vách tầng 5	5,465,307.89 VND	Nhân công[6],Vận thăng tải,Cần trục tháp	Mon 01/12/25	Tue 02/12/25
+Lắp ván khuôn dầm, sàn, cầu thang tầng 6	28,568,726.70 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Sat 29/11/25	Thu 04/12/25
+Lắp cốt thép dầm, sàn, cầu thang tầng 6	466,924,093.52 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Sun 30/11/25	Tue 09/12/25
+Đổ bê tông dầm, sàn, cầu thang tầng 6	239,790,400.25 VND	Nhân công[10]	Wed 10/12/25	Wed 10/12/25
+Tháo ván khuôn dầm, sàn, cầu thang tầng 6	7,003,200.37 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Fri 26/12/25	Sun 28/12/25
+TẦNG 6	1,089,768,937.12 VND		Sat 13/12/25	Tue 20/01/26
+Lắp cốt thép cột, vách tầng 6	288,113,450.12 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Sat 13/12/25	Fri 19/12/25
+Lắp ván khuôn cột, vách tầng 6	32,029,370.22 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Sun 14/12/25	Sat 20/12/25
+Đổ bê tông cột, vách tầng 6	69,638,707.85 VND	Nhân công[10]	Sun 21/12/25	Sun 21/12/25
+Tháo ván khuôn cột, vách tầng 6	8,136,658.80 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Wed 24/12/25	Fri 26/12/25
+Lắp ván khuôn dầm, sàn, cầu thang tầng 7	28,015,342.06 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Mon 22/12/25	Sat 27/12/25
+Lắp cốt thép dầm, sàn, cầu thang tầng 7	473,866,008.00 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Tue 23/12/25	Thu 01/01/26
+Đổ bê tông dầm, sàn, cầu thang tầng 7	183,070,767.83 VND	Nhân công[10]	Fri 02/01/26	Fri 02/01/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng 7	6,898,632.24 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Sun 18/01/26	Tue 20/01/26
+TẦNG 7	536,260,954.24 VND		Mon 05/01/26	Mon 19/01/26
+Lắp cốt thép cột, vách tầng 7	451,508,852.20 VND	Nhân công[19],Cần trục tháp,Vận thăng tải	Mon 05/01/26	Tue 13/01/26
+Lắp ván khuôn cột, vách tầng 7	22,956,934.74 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Sat 10/01/26	Wed 14/01/26
+Đổ bê tông cột, vách tầng 7	56,347,523.00 VND	Nhân công[10]	Thu 15/01/26	Thu 15/01/26
+Tháo ván khuôn cột, vách tầng 7	5,447,644.30 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Sun 18/01/26	Mon 19/01/26
+ĐỢT 3 (1/2/2026-31/03/2026)	3,060,284,581.93 VND		Fri 16/01/26	Sat 28/03/26
+TẦNG 8	682,988,215.37 VND		Fri 16/01/26	Sat 14/02/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng 8	27,876,792.86 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Fri 16/01/26	Wed 21/01/26
+Lắp cốt thép dầm, sàn, cầu thang tầng 8	473,866,008.00 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Sat 17/01/26	Mon 26/01/26
+Đổ bê tông dầm, sàn, cầu thang tầng 8	174,373,136.95 VND	Nhân công[10]	Tue 27/01/26	Tue 27/01/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng 8	6,872,277.56 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 12/02/26	Sat 14/02/26
+TẦNG 8	1,092,713,504.64 VND		Fri 30/01/26	Sat 07/03/26
+Lắp cốt thép cột, vách tầng 8	218,928,357.96 VND	Nhân công[19],Cần trục tháp,Vận thăng tải	Fri 30/01/26	Mon 02/02/26
+Lắp ván khuôn cột, vách tầng 8	22,956,934.74 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Sat 31/01/26	Wed 04/02/26
+Đổ bê tông cột, vách tầng 8	56,309,870.92 VND	Nhân công[10]	Thu 05/02/26	Thu 05/02/26
+Tháo ván khuôn cột, vách tầng 8	5,447,644.30 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Sun 08/02/26	Mon 09/02/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng 9	130,076,403.89 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Fri 06/02/26	Wed 11/02/26
+Lắp cốt thép dầm, sàn, cầu thang tầng 9	473,866,008.00 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Sat 07/02/26	Mon 16/02/26
+Đổ bê tông dầm, sàn, cầu thang tầng 9	173,005,111.31 VND	Nhân công[10]	Tue 17/02/26	Tue 17/02/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng 9	12,123,173.52 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 05/03/26	Sat 07/03/26
+TẦNG 9	983,107,821.76 VND		Fri 20/02/26	Sat 28/03/26
+Lắp cốt thép cột, vách tầng 9	216,722,938.12 VND	Nhân công[17],Cần trục tháp,Vận thăng tải	Fri 20/02/26	Tue 24/02/26
+Lắp ván khuôn cột, vách tầng 9	22,956,934.74 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Sat 21/02/26	Wed 25/02/26
+Đổ bê tông cột, vách tầng 9	56,347,523.00 VND	Nhân công[10]	Thu 26/02/26	Thu 26/02/26
+Tháo ván khuôn cột, vách tầng 9	5,447,644.30 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Sun 01/03/26	Mon 02/03/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng 10	27,917,942.85 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Fri 27/02/26	Wed 04/03/26
+Lắp cốt thép dầm, sàn, cầu thang tầng 10	473,866,008.00 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Sat 28/02/26	Mon 09/03/26
+Đổ bê tông dầm, sàn, cầu thang tầng 10	172,967,459.23 VND	Nhân công[10]	Tue 10/03/26	Tue 10/03/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng 10	6,881,371.52 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 26/03/26	Sat 28/03/26
+TẦNG 10	301,475,040.16 VND		Fri 13/03/26	Mon 23/03/26
+Lắp cốt thép cột, vách tầng 10	216,722,938.12 VND	Nhân công[17],Cần trục tháp,Vận thăng tải	Fri 13/03/26	Tue 17/03/26
+Lắp ván khuôn cột, vách tầng 10	22,956,934.74 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Sat 14/03/26	Wed 18/03/26
+Đổ bê tông cột, vách tầng 10	56,347,523.00 VND	Nhân công[10]	Thu 19/03/26	Thu 19/03/26
+Tháo ván khuôn cột, vách tầng 10	5,447,644.30 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Sun 22/03/26	Mon 23/03/26
+ĐỢT 4 (1/4/2026-31/05/2026)	2,913,838,807.90 VND		Fri 20/03/26	Fri 29/05/26
+TẦNG 11	675,080,529.11 VND		Fri 20/03/26	Fri 17/04/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng 11	23,549,774.52 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Fri 20/03/26	Tue 24/03/26
+Lắp cốt thép dầm, sàn, cầu thang tầng 11	473,866,008.00 VND	Nhân công[18],Cần trục tháp,Vận thăng tải	Sat 21/03/26	Mon 30/03/26
+Đổ bê tông dầm, sàn, cầu thang tầng 11	172,967,459.23 VND	Nhân công[10]	Tue 31/03/26	Tue 31/03/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng 11	4,697,287.36 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 16/04/26	Fri 17/04/26
+TẦNG 11	976,555,569.27 VND		Fri 03/04/26	Fri 08/05/26
+Lắp cốt thép cột, vách tầng 11	216,722,938.12 VND	Nhân công[17],Cần trục tháp,Vận thăng tải	Fri 03/04/26	Tue 07/04/26
+Lắp ván khuôn cột, vách tầng 11	22,956,934.74 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Sat 04/04/26	Wed 08/04/26
+Đổ bê tông cột, vách tầng 11	56,347,523.00 VND	Nhân công[10]	Thu 09/04/26	Thu 09/04/26
+Tháo ván khuôn cột, vách tầng 11	5,447,644.30 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Sun 12/04/26	Mon 13/04/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng 12	23,549,774.52 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Fri 10/04/26	Tue 14/04/26
+Lắp cốt thép dầm, sàn, cầu thang tầng 12	473,866,008.00 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Sat 11/04/26	Mon 20/04/26
+Đổ bê tông dầm, sàn, cầu thang tầng 12	172,967,459.23 VND	Nhân công[10]	Tue 21/04/26	Tue 21/04/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng 12	4,697,287.36 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 07/05/26	Fri 08/05/26
+TẦNG 12	966,328,082.22 VND		Fri 24/04/26	Fri 29/05/26
+Lắp cốt thép cột, vách tầng 12	206,646,059.40 VND	Nhân công[17],Cần trục tháp,Vận thăng tải	Fri 24/04/26	Tue 28/04/26
+Lắp ván khuôn cột, vách tầng 12	22,956,934.74 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Sat 25/04/26	Wed 29/04/26
+Đổ bê tông cột, vách tầng 12	56,347,523.00 VND	Nhân công[10]	Thu 30/04/26	Thu 30/04/26
+Tháo ván khuôn cột, vách tầng 12	5,447,644.30 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Sun 03/05/26	Mon 04/05/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng 13	23,549,774.52 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Fri 01/05/26	Tue 05/05/26
+Lắp cốt thép dầm, sàn, cầu thang tầng 13	473,866,008.00 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Sat 02/05/26	Mon 11/05/26
+Đổ bê tông dầm, sàn, cầu thang tầng 13	172,816,850.90 VND	Nhân công[10]	Tue 12/05/26	Tue 12/05/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng 13	4,697,287.36 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 28/05/26	Fri 29/05/26
+TẦNG 13	295,874,627.30 VND		Fri 15/05/26	Mon 25/05/26
+Lắp cốt thép cột, vách tầng 13	206,646,059.40 VND	Nhân công[17],Cần trục tháp,Vận thăng tải	Fri 15/05/26	Tue 19/05/26
+Lắp ván khuôn cột, vách tầng 13	27,433,400.60 VND	Nhân công[12],Cần trục tháp,Vận thăng tải	Sat 16/05/26	Wed 20/05/26
+Đổ bê tông cột, vách tầng 13	56,347,523.00 VND	Nhân công[10]	Thu 21/05/26	Thu 21/05/26
+Tháo ván khuôn cột, vách tầng 13	5,447,644.30 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Sun 24/05/26	Mon 25/05/26
+ĐỢT 5 (1/6/2026-31/07/2026)	2,568,156,429.40 VND		Fri 22/05/26	Fri 31/07/26
+TẦNG 14	674,929,920.78 VND		Fri 22/05/26	Fri 19/06/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng 14	23,549,774.52 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Fri 22/05/26	Tue 26/05/26
+Lắp cốt thép dầm, sàn, cầu thang tầng 14	473,866,008.00 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Sat 23/05/26	Mon 01/06/26
+Đổ bê tông dầm, sàn, cầu thang tầng 14	172,816,850.90 VND	Nhân công[10]	Tue 02/06/26	Tue 02/06/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng 14	4,697,287.36 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 18/06/26	Fri 19/06/26
+TẦNG 14	980,992,596.94 VND		Fri 05/06/26	Fri 10/07/26
+Lắp cốt thép cột, vách tầng 14	206,646,059.40 VND	Nhân công[17],Cần trục tháp,Vận thăng tải	Fri 05/06/26	Tue 09/06/26
+Lắp ván khuôn cột, vách tầng 14	27,349,953.72 VND	Nhân công[12],Cần trục tháp,Vận thăng tải	Sat 06/06/26	Wed 10/06/26
+Đổ bê tông cột, vách tầng 14	56,021,204.96 VND	Nhân công[10]	Thu 11/06/26	Thu 11/06/26
+Tháo ván khuôn cột, vách tầng 14	5,445,046.72 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Sun 14/06/26	Mon 15/06/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng 15	23,655,043.58 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Fri 12/06/26	Tue 16/06/26
+Lắp cốt thép dầm, sàn, cầu thang tầng 15	473,768,446.74 VND	Nhân công[18],Cần trục tháp,Vận thăng tải	Sat 13/06/26	Mon 22/06/26
+Đổ bê tông dầm, sàn, cầu thang tầng 15	183,386,317.12 VND	Nhân công[10]	Tue 23/06/26	Tue 23/06/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng 15	4,720,524.70 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 09/07/26	Fri 10/07/26
+TẦNG 15	912,233,911.68 VND		Fri 26/06/26	Fri 31/07/26
+Lắp cốt thép cột, vách tầng 15	243,642,044.29 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Fri 26/06/26	Tue 30/06/26
+Lắp ván khuôn cột, vách tầng 15	32,210,252.86 VND	Nhân công[14],Cần trục tháp,Vận thăng tải	Sat 27/06/26	Wed 01/07/26
+Đổ bê tông cột, vách tầng 15	78,650,106.08 VND	Nhân công[10]	Thu 02/07/26	Thu 02/07/26
+Tháo ván khuôn cột, vách tầng 15	5,522,974.31 VND	Nhân công[6],Cần trục tháp,Vận thăng tải	Sun 05/07/26	Mon 06/07/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng kỹ thuật	23,570,133.34 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Fri 03/07/26	Tue 07/07/26
+Lắp cốt thép dầm, sàn, cầu thang tầng kỹ thuật	328,880,805.72 VND	Nhân công[15],Cần trục tháp,Vận thăng tải	Sat 04/07/26	Mon 13/07/26
+Đổ bê tông dầm, sàn, cầu thang tầng kỹ thuật	195,042,777.17 VND	Nhân công[10]	Tue 14/07/26	Tue 14/07/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng kỹ thuật	4,714,817.91 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 30/07/26	Fri 31/07/26
+ĐỢT 6 (1/8/2026-30/09/2026)	552,847,446.49 VND		Fri 17/07/26	Fri 21/08/26
+TẦNG KỸ THUẬT	417,548,772.90 VND		Fri 17/07/26	Thu 13/08/26
+Lắp cốt thép cột, vách tầng kỹ thuật	202,408,491.75 VND	Nhân công[17],Cần trục tháp,Vận thăng tải	Fri 17/07/26	Tue 21/07/26
+Lắp ván khuôn cột, vách tầng kỹ thuật	13,766,925.54 VND	Nhân công[12],Cần trục tháp,Vận thăng tải	Mon 20/07/26	Wed 22/07/26
+Đổ bê tông cột, vách tầng kỹ thuật	28,560,286.67 VND	Nhân công[10]	Thu 23/07/26	Thu 23/07/26
+Tháo ván khuôn cột, vách tầng kỹ thuật	2,297,559.38 VND	Nhân công[8],Cần trục tháp,Vận thăng tải	Sun 26/07/26	Sun 26/07/26
+Lắp ván khuôn dầm, sàn, cầu thang tầng mái	17,242,816.53 VND	Nhân công[16],Cần trục tháp,Vận thăng tải	Fri 24/07/26	Sat 25/07/26
+Lắp cốt thép dầm, sàn, cầu thang tầng mái	99,160,468.75 VND	Nhân công[10],Cần trục tháp,Vận thăng tải	Sat 25/07/26	Mon 27/07/26
+Đổ bê tông dầm, sàn, cầu thang tầng mái	49,846,263.55 VND	Nhân công[10]	Tue 28/07/26	Tue 28/07/26
+Tháo ván khuôn dầm, sàn, cầu thang tầng mái	4,265,960.73 VND	Nhân công[5],Cần trục tháp,Vận thăng tải	Thu 13/08/26	Thu 13/08/26
+TẦNG MÁI	76,342,660.45 VND		Fri 31/07/26	Sat 08/08/26
+Lắp cốt thép cột, vách tầng mái	61,884,274.88 VND	Nhân công[7],Cần trục tháp,Vận thăng tải	Fri 31/07/26	Mon 03/08/26
+Lắp ván khuôn cột, vách tầng mái	4,940,080.55 VND	Nhân công[3],Cần trục tháp,Vận thăng tải	Tue 04/08/26	Tue 04/08/26
+Đổ bê tông cột, vách tầng mái	8,454,075.02 VND	Nhân công[10]	Wed 05/08/26	Wed 05/08/26
+Tháo ván khuôn cột, vách tầng mái	1,064,230.00 VND	Nhân công,Cần trục tháp,Vận thăng tải	Sat 08/08/26	Sat 08/08/26
+Ô CHE THANG	58,956,013.14 VND		Thu 06/08/26	Fri 21/08/26
+Lắp ván khuôn dầm, sàn, cầu thang ô che thang	7,406,309.20 VND	Nhân công[8],Cần trục tháp,Vận thăng tải	Thu 06/08/26	Fri 07/08/26
+Lắp cốt thép dầm, sàn, cầu thang ô che thang	26,948,350.17 VND	Nhân công[4],Cần trục tháp,Vận thăng tải	Fri 07/08/26	Sun 09/08/26
+Đổ bê tông dầm, sàn, cầu thang ô che thang	22,774,416.78 VND	Nhân công[10]	Mon 10/08/26	Mon 10/08/26
+Tháo ván khuôn dầm, sàn, cầu thang ô che thang	1,826,936.99 VND	Nhân công[4],Cần trục tháp,Vận thăng tải	Fri 21/08/26	Fri 21/08/26
+
 XÁC ĐỊNH GIÁ TRỊ DOANH THU THỰC NHẬN								
 								Đơn vị: VND
 STT	Nội dung	Giá trị nghiệm thu	 Giá trị nghiệm thu lũy kế 	Tỷ lệ % hoàn thành 	Nộp khoản tiền giữ lại (10%)	Hoàn tạm ứng (15%)	Doanh thu thực nhận	Doanh thu thực nhận lũy kế
