@@ -3,150 +3,87 @@ from openai import OpenAI
 from base64 import b64encode
 
 # Ẩn thanh công cụ và nút "Manage app"
-st.markdown(
-    """
-    <style>
-        /* Ẩn các nút Share, Star, Edit, GitHub */
-        [data-testid="stToolbar"] {
-            display: none !important;
-        }
-        [data-testid="stAppViewBlockContainer"] > div > div > div > div > div {
-            display: none !important;
-        }
-        /* Ẩn nút Manage app */
-        [data-testid="manage-app-button"] {
-            display: none !important;
-        }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+st.markdown("""
+<style>
+[data-testid="stToolbar"], [data-testid="manage-app-button"],
+[data-testid="stAppViewBlockContainer"] > div > div > div > div > div {
+    display: none !important;
+}
+</style>
+""", unsafe_allow_html=True)
 
-# Hàm đọc nội dung từ file văn bản
-def rfile(name_file):
-    with open(name_file, "r", encoding="utf-8") as file:
-        return file.read()
+# Hàm tiện ích
+def rfile(name): return open(name, "r", encoding="utf-8").read()
+def img_to_base64(path): return b64encode(open(path, "rb").read()).decode()
 
-# Hàm chuyển ảnh thành base64
-def img_to_base64(img_path):
-    with open(img_path, "rb") as f:
-        return b64encode(f.read()).decode()
-
-# Chuyển ảnh sang base64
+# Ảnh avatar
 assistant_icon = img_to_base64("assistant_icon.png")
 user_icon = img_to_base64("user_icon.png")
 
-# Hiển thị logo (nếu có)
+# Logo (nếu có)
 try:
     col1, col2, col3 = st.columns([1, 2, 1])
-    with col2:
-        st.image("logo.png", use_container_width=True)
-except:
-    pass
+    with col2: st.image("logo.png", use_container_width=True)
+except: pass
 
-# Hiển thị tiêu đề
-title_content = rfile("00.xinchao.txt")
-st.markdown(
-    f"""<h1 style="text-align: center; font-size: 24px; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px;">{title_content}</h1>""",
-    unsafe_allow_html=True
-)
+# Tiêu đề
+st.markdown(f"""<h1 style="text-align: center; font-size: 24px; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px;">{rfile("00.xinchao.txt")}</h1>""", unsafe_allow_html=True)
 
-# OpenAI API
-openai_api_key = st.secrets.get("OPENAI_API_KEY")
-client = OpenAI(api_key=openai_api_key)
+# Nhập tên người dùng
+user_id = st.text_input("🧑 Nhập tên của bạn để bắt đầu:", key="user_name")
+if not user_id:
+    st.warning("Vui lòng nhập tên để bắt đầu trò chuyện.")
+    st.stop()
 
-# Tin nhắn hệ thống
+# OpenAI client
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+
+# Tin nhắn khởi tạo
 INITIAL_SYSTEM_MESSAGE = {"role": "system", "content": rfile("01.system_trainning.txt")}
 INITIAL_ASSISTANT_MESSAGE = {"role": "assistant", "content": rfile("02.assistant.txt")}
 
-# Khởi tạo session_state.messages nếu chưa có
-if "messages" not in st.session_state:
-    st.session_state.messages = [INITIAL_SYSTEM_MESSAGE, INITIAL_ASSISTANT_MESSAGE]
+# Tạo dict lưu lịch sử theo từng user
+if "user_histories" not in st.session_state:
+    st.session_state.user_histories = {}
 
-# Nút "Bắt đầu cuộc trò chuyện mới"
-if st.button("New chat"):
-    # Reset messages về trạng thái ban đầu
-    st.session_state.messages = [INITIAL_SYSTEM_MESSAGE, INITIAL_ASSISTANT_MESSAGE]
-    # Làm mới giao diện bằng cách rerun ứng dụng
+if user_id not in st.session_state.user_histories:
+    st.session_state.user_histories[user_id] = [INITIAL_SYSTEM_MESSAGE, INITIAL_ASSISTANT_MESSAGE]
+
+messages = st.session_state.user_histories[user_id]
+
+# Nút bắt đầu lại cuộc trò chuyện
+if st.button("🔁 New chat"):
+    st.session_state.user_histories[user_id] = [INITIAL_SYSTEM_MESSAGE, INITIAL_ASSISTANT_MESSAGE]
     st.rerun()
 
-# CSS cải tiến
-st.markdown(
-    """
-    <style>
-        .message {
-            padding: 12px !important;
-            border-radius: 12px !important;
-            max-width: 75% !important;
-            display: flex !important;
-            align-items: flex-start !important;
-            gap: 12px !important;
-            margin: 8px 0 !important;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
-        }
-        .assistant {
-            background-color: #f0f7ff !important;
-        }
-        .user {
-            background-color: #e6ffe6 !important;
-            text-align: right !important;
-            margin-left: auto !important;
-            flex-direction: row-reverse !important;
-        }
-        .icon {
-            width: 32px !important;
-            height: 32px !important;
-            border-radius: 50% !important;
-            border: 1px solid #ddd !important;
-        }
-        .text {
-            flex: 1 !important;
-            font-size: 16px !important;
-            line-height: 1.4 !important;
-        }
-        .typing {
-            font-style: italic !important;
-            color: #888 !important;
-            padding: 5px 10px !important;
-            display: flex !important;
-            align-items: center !important;
-        }
-        @keyframes blink {
-            0% { opacity: 1; }
-            50% { opacity: 0.5; }
-            100% { opacity: 1; }
-        }
-        .typing::after {
-            content: "..." !important;
-            animation: blink 1s infinite !important;
-        }
-        [data-testid="stChatInput"] {
-            border: 2px solid #ddd !important;
-            border-radius: 8px !important;
-            padding: 8px !important;
-            background-color: #fafafa !important;
-        }
-        /* Tùy chỉnh nút "New chat" */
-        div.stButton > button {
-            background-color: #4CAF50 !important;
-            color: white !important;
-            border-radius: 2px solid #FFFFFF !important;
-            padding: 6px 6px !important;
-            font-size: 14px !important;
-            border: none !important;
-            display: block !important;
-            margin: 10px 0px !important;  /* Căn giữa nút */
-        }
-        div.stButton > button:hover {
-            background-color: #45a049 !important;
-        }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+# Giao diện CSS
+st.markdown("""
+<style>
+.message {
+    padding: 12px; border-radius: 12px; max-width: 75%; display: flex;
+    align-items: flex-start; gap: 12px; margin: 8px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.assistant { background-color: #f0f7ff; }
+.user { background-color: #e6ffe6; text-align: right; margin-left: auto; flex-direction: row-reverse; }
+.icon { width: 32px; height: 32px; border-radius: 50%; border: 1px solid #ddd; }
+.text { flex: 1; font-size: 16px; line-height: 1.4; }
+.typing { font-style: italic; color: #888; padding: 5px 10px; display: flex; align-items: center; }
+.typing::after { content: "..."; animation: blink 1s infinite; }
+@keyframes blink { 0%{opacity:1;} 50%{opacity:0.5;} 100%{opacity:1;} }
+[data-testid="stChatInput"] {
+    border: 2px solid #ddd; border-radius: 8px; padding: 8px; background-color: #fafafa;
+}
+div.stButton > button {
+    background-color: #4CAF50; color: white; border-radius: 2px solid #FFFFFF;
+    padding: 6px 6px; font-size: 14px; border: none; margin: 10px 0;
+}
+div.stButton > button:hover { background-color: #45a049; }
+</style>
+""", unsafe_allow_html=True)
 
-# Hiển thị lịch sử tin nhắn (trừ system)
-for message in st.session_state.messages:
+# Hiển thị lịch sử
+for message in messages:
     if message["role"] == "assistant":
         st.markdown(f'''
         <div class="message assistant">
@@ -161,24 +98,10 @@ for message in st.session_state.messages:
             <div class="text">{message["content"]}</div>
         </div>
         ''', unsafe_allow_html=True)
-def check_and_display_drawing(response):
-    drawing_map = {
-        "bản vẽ Project1": "-Project1.pdf",
-    }
-    for keyword, path in drawing_map.items():
-        if keyword.lower() in response.lower():
-            if path.endswith(".pdf"):
-                with open(path, "rb") as f:
-                    st.download_button(f"Tải {keyword}", f, file_name=path.split("/")[-1])
-            else:
-                st.image(path, caption=keyword)
-            return True
-    return False
 
-# Ô nhập câu hỏi
-if prompt := st.chat_input("Enter your question here..."):
-    st.session_state.messages.append({"role": "user", "content": prompt})
-
+# Gửi tin nhắn mới
+if prompt := st.chat_input("Nhập câu hỏi..."):
+    messages.append({"role": "user", "content": prompt})
     st.markdown(f'''
     <div class="message user">
         <img src="data:image/png;base64,{user_icon}" class="icon" />
@@ -186,29 +109,26 @@ if prompt := st.chat_input("Enter your question here..."):
     </div>
     ''', unsafe_allow_html=True)
 
-    # Assistant đang trả lời...
+    # Trạng thái typing
     typing_placeholder = st.empty()
-    typing_placeholder.markdown(
-        '<div class="typing">Assistant is typing..</div>',
-        unsafe_allow_html=True
-    )
+    typing_placeholder.markdown('<div class="typing">Đang trả lời...</div>', unsafe_allow_html=True)
 
-    # Gọi API
+    # Gọi GPT
+    model = rfile("module_chatgpt.txt").strip()
     response = ""
     stream = client.chat.completions.create(
-        model=rfile("module_chatgpt.txt").strip(),
-        messages=[{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
+        model=model,
+        messages=[{"role": m["role"], "content": m["content"]} for m in messages],
         stream=True,
     )
-
     for chunk in stream:
         if chunk.choices:
             response += chunk.choices[0].delta.content or ""
 
-    # Xóa dòng "Assistant is typing..."
+    # Xóa typing
     typing_placeholder.empty()
 
-    # Hiển thị phản hồi từ assistant
+    # Hiển thị phản hồi
     st.markdown(f'''
     <div class="message assistant">
         <img src="data:image/png;base64,{assistant_icon}" class="icon" />
@@ -216,4 +136,5 @@ if prompt := st.chat_input("Enter your question here..."):
     </div>
     ''', unsafe_allow_html=True)
 
-    st.session_state.messages.append({"role": "assistant", "content": response})
+    messages.append({"role": "assistant", "content": response})
+    st.session_state.user_histories[user_id] = messages
