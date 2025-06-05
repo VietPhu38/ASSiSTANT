@@ -1,6 +1,40 @@
 import streamlit as st
 from openai import OpenAI
 from base64 import b64encode
+import sqlite3
+from datetime import datetime
+
+# Hàm tiện ích
+def rfile(name): return open(name, "r", encoding="utf-8").read()
+def img_to_base64(path): return b64encode(open(path, "rb").read()).decode()
+
+# Kết nối SQLite
+def init_db():
+    conn = sqlite3.connect("chat_history.db")
+    c = conn.cursor()
+    c.execute('''CREATE TABLE IF NOT EXISTS chat_history
+                 (user_id TEXT, role TEXT, content TEXT, timestamp TEXT)''')
+    conn.commit()
+    return conn
+
+# Lưu tin nhắn vào SQLite
+def save_message(user_id, role, content):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    conn = init_db()
+    c = conn.cursor()
+    c.execute("INSERT INTO chat_history (user_id, role, content, timestamp) VALUES (?, ?, ?, ?)",
+              (user_id, role, content, timestamp))
+    conn.commit()
+    conn.close()
+
+# Tải lịch sử của user_id
+def load_history(user_id):
+    conn = init_db()
+    c = conn.cursor()
+    c.execute("SELECT role, content FROM chat_history WHERE user_id = ? ORDER BY timestamp", (user_id,))
+    history = [{"role": row[0], "content": row[1]} for row in c.fetchall()]
+    conn.close()
+    return history
 
 # Ẩn thanh công cụ và nút "Manage app"
 st.markdown("""
@@ -11,10 +45,6 @@ st.markdown("""
 }
 </style>
 """, unsafe_allow_html=True)
-
-# Hàm tiện ích
-def rfile(name): return open(name, "r", encoding="utf-8").read()
-def img_to_base64(path): return b64encode(open(path, "rb").read()).decode()
 
 # Ảnh avatar
 assistant_icon = img_to_base64("assistant_icon.png")
@@ -47,13 +77,24 @@ if "user_histories" not in st.session_state:
     st.session_state.user_histories = {}
 
 if user_id not in st.session_state.user_histories:
-    st.session_state.user_histories[user_id] = [INITIAL_SYSTEM_MESSAGE, INITIAL_ASSISTANT_MESSAGE]
+    st.session_state.user_histories[user_id] = load_history(user_id)
+    if not st.session_state.user_histories[user_id]:  # Nếu chưa có lịch sử
+        st.session_state.user_histories[user_id] = [INITIAL_SYSTEM_MESSAGE, INITIAL_ASSISTANT_MESSAGE]
+        save_message(user_id, "system", INITIAL_SYSTEM_MESSAGE["content"])
+        save_message(user_id, "assistant", INITIAL_ASSISTANT_MESSAGE["content"])
 
 messages = st.session_state.user_histories[user_id]
 
 # Nút bắt đầu lại cuộc trò chuyện
 if st.button("🔁 New chat"):
+    conn = init_db()
+    c = conn.cursor()
+    c.execute("DELETE FROM chat_history WHERE user_id = ?", (user_id,))
+    conn.commit()
+    conn.close()
     st.session_state.user_histories[user_id] = [INITIAL_SYSTEM_MESSAGE, INITIAL_ASSISTANT_MESSAGE]
+    save_message(user_id, "system", INITIAL_SYSTEM_MESSAGE["content"])
+    save_message(user_id, "assistant", INITIAL_ASSISTANT_MESSAGE["content"])
     st.rerun()
 
 # Giao diện CSS
@@ -102,6 +143,7 @@ for message in messages:
 # Gửi tin nhắn mới
 if prompt := st.chat_input("Nhập câu hỏi..."):
     messages.append({"role": "user", "content": prompt})
+    save_message(user_id, "user", prompt)
     st.markdown(f'''
     <div class="message user">
         <img src="data:image/png;base64,{user_icon}" class="icon" />
@@ -137,4 +179,5 @@ if prompt := st.chat_input("Nhập câu hỏi..."):
     ''', unsafe_allow_html=True)
 
     messages.append({"role": "assistant", "content": response})
+    save_message(user_id, "assistant", response)
     st.session_state.user_histories[user_id] = messages
