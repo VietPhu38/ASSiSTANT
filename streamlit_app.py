@@ -161,6 +161,19 @@ for message in st.session_state.messages:
             <div class="text">{message["content"]}</div>
         </div>
         ''', unsafe_allow_html=True)
+def check_and_display_drawing(response):
+    drawing_map = {
+        "bản vẽ Project1": "-Project1.pdf",
+    }
+    for keyword, path in drawing_map.items():
+        if keyword.lower() in response.lower():
+            if path.endswith(".pdf"):
+                with open(path, "rb") as f:
+                    st.download_button(f"Tải {keyword}", f, file_name=path.split("/")[-1])
+            else:
+                st.image(path, caption=keyword)
+            return True
+    return False
 
 # Ô nhập câu hỏi
 if prompt := st.chat_input("Enter your question here..."):
