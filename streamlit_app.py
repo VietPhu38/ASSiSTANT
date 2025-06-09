@@ -47,7 +47,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Ảnh avatar
-assistant_icon = img_to_base64("assistant_icon.png")
+assistant_icon = img_to_base64("logo.png")
 user_icon = img_to_base64("user_icon.png")
 
 # Logo (nếu có)
