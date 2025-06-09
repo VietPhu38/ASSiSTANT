@@ -53,7 +53,7 @@ user_icon = img_to_base64("user_icon.png")
 # Logo (nếu có)
 try:
     col1, col2, col3 = st.columns([1, 2, 1])
-    with col2: st.image("logo.png", use_container_width=True)
+    with col2: st.image("download.png", use_container_width=True)
 except: pass
 
 # Tiêu đề
