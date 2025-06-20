@@ -6,7 +6,7 @@ kink bản vẽ https://www.dropbox.com/scl/fi/pq9znr92cbido3aan6iry/13052025_BP
 OUR TEAM
 Nhóm của tôi bao gồm 2 thành viên là Khánh Vy và Viết Phú được sự hướng dẫn của Thầy T.S Ngô Ngọc Tri và Th.S Phan Thanh Đức:
 Thầy T.S Ngô Ngọc Tri hiện đang đảm nhiệm chức vụ trưởng khoa Quản lý dự án tại Trường Đại học Bách khoa - Đại Học Đà Nẵng
-Anh Th.S Phan Thanh Đức hiện đang đảm nhiệm chức vụ trợ lý giám đốc công ty Tân Minh Nhân.
+Anh ThS. Phan Thanh Đức hiện đang đảm nhiệm chức vụ trợ lý giám đốc công ty Tân Minh Nhân.
 OUR PROJECT
 Dự án Khách sạn Phạm Doanh Phương:
 - Tên công trình: Khách sạn Phạm Doanh Phương.
@@ -260,16 +260,12 @@ Website:         Vinaconex25 – Vinaconex25
 Email:		info@vinaconex25.com.vn
 Công tác thi công cọc khoan nhồi được tiến hành trên một diện tích xây dựng là 656m2. Số lượng cọc khoan nhồi là 43 cọc có đường kính là 0,8 m và 10 cọc có đường kính 0,6 m.
 Bao gồm các quá trình chính sau:
- + Công tác chuẩn bị;
- + Công tác định vị tim cọc;
- + Công tác hạ ống vách, khoan và bơm dung dịch betonite;
- + Xác nhận độ sâu hố khoan và xử lý cặn lắng đáy hố cọc (Khoan tạo lỗ);
- + Công tác chuẩn bị hạ lồng thép ( vét đấy hố khoan);
- + Hạ lồng thép;
- + Lắp ống đổ bê tông;
- + Thổi rửa đáy hố khoan;
- + Đổ bê tông;
-  + Rút ống vách.
+- bước 1 : Hạ ống vách
+- bước 2 : Khoan tạo lỗ
+- bước 3 : Hạ ống vách
+- bước 4 : Đổ bê tông
+- bước 5 : Hạ kingpost
+- bước 6 : Rút ống vách và kết thúc
 Khi thi công công trình “khách sạn Phạm Doanh Phương”, lựa chọn phương pháp hạ cừ bằng máy ép thủy lực do những ưu điểm vượt trội của nó. Đây là phương pháp thi công hiện đại, không gây rung lắc, hạn chế tiếng ồn, phù hợp với các khu vực đô thị đông dân cư hoặc những nơi có công trình lân cận cần đảm bảo an toàn. Máy ép thủy lực hoạt động với lực ép lớn, đảm bảo cọc được hạ sâu và chính xác theo thiết kế, tăng độ ổn định và khả năng chịu tải của nền móng. Ngoài ra, phương pháp này giúp tiết kiệm nhân công, giảm thiểu tác động môi trường và rút ngắn thời gian thi công. Với những ưu điểm trên, hạ cừ bằng máy ép thủy lực là lựa chọn tối ưu để đảm bảo chất lượng và tiến độ của công trình.
 1.3.1.2. Kỹ thuật hạ cừ
 - Bước 1: Ép cọc cừ larsen đầu tiên xuống nền đất theo đúng thiết kế và chiều sâu quy định.
