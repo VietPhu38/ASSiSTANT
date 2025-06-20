@@ -317,4 +317,11 @@ STT	Hạng mục chi phí	Chi phí
 3	Chi phí kho bãi	56,350,000
 5	Chi phí không xác định khối lượng khác	65,914,707
 Tổng	311,975,007
+* Quy trình thi công cọc khoan nhồi:
+    - bước 1 : Hạ ống vách
+    - bước 2 : Khoan tạo lỗ
+    - bước 3 : Hạ ống vách
+    - bước 4 : Đổ bê tông
+    - bước 5 : Hạ kingpost
+    - bước 6 : Rút ống vách và kết thúc
 
